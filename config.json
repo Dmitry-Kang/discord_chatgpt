@@ -1,0 +1,5 @@
+{
+    "discord_bot_token":"set your discord bot token here",
+    "discord_channel_id":"channel where bot exists",
+    "openAI_key": "key from openai"
+}
